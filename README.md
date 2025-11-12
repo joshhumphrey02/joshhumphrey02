@@ -2,13 +2,13 @@
 
 ## 🚀 Software Developer
 
-I'm a Software Developer with a proven track record of building scalable, secure, and high-performance applications. With expertise in Next.js, Expo, Eylsia and Express.js, I specialize in crafting efficient and robust APIs and microservices that power the digital landscape.
+I'm a Software Engineer with a proven track record of building scalable, secure, and high-performance applications. With expertise in Next.js, Expo, Eylsia and Express.js, I specialize in crafting efficient and robust APIs and microservices that power the digital landscape.
 
 I have developed applications for various organizations, delivering impactful solutions tailored to their needs. My work focuses on building scalable and efficient systems that drive business growth.
 
 - ✉️ You can contact me at [joshuahumphrey579@gmail.com](mailto:joshuahumphrey579@gmail.com)
 - 🚀 I'm currently working on building scalable backend systems
-- 🧠 I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
+- 🧠 I'm expanding my knowledge in software architecture, AI, and cloud technologies
 - 🤝 I'm open to collaborating on Mobile applications, Web applications, and APIs
 - ⚡ Ask me about Next.js, Expo, Express.js, MongoDB, PostgreSQL, and RESTful API design
 
