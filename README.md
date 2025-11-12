@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Humphrey Joshua!
 
-## 🚀 Software Developer
+## 🚀 Software Engineer
 
 I'm a Software Engineer with a proven track record of building scalable, secure, and high-performance applications. With expertise in Next.js, Expo, Eylsia and Express.js, I specialize in crafting efficient and robust APIs and microservices that power the digital landscape.
 
